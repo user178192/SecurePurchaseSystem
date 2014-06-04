@@ -1,0 +1,6 @@
+11100 flower 10
+11001 table  140
+10100 book   50
+10001 paper  1
+11111 meat   20
+

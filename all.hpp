@@ -36,10 +36,10 @@
 
 using namespace std;
 
-const char* ip_add="128.226.6.39";
-char *public_encrypt(char *str,char *path_key);
-char *private_encrypt(char *str,char *path_key);
-char *public_decrypt(char *str,char *path_key);
-char *private_decrypt(char *str,char *path_key);
+const char* ip_add = "128.226.6.39";
+char *public_encrypt(char *str, char *path_key);
+char *private_encrypt(char *str, char *path_key);
+char *public_decrypt(char *str, char *path_key);
+char *private_decrypt(char *str, char *path_key);
 
 #endif

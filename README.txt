@@ -1,4 +1,4 @@
-1. Xingmin,Han xhan5@binghamton.edu; Boxiong,Sun bsun1@binghamton.edu
+1. Xingmin,Han xhan5@binghamton.edu
 2. Language:c++
 3. Platform: Bingsuns
 4. Use makefile to build the program, and first use ./psystem to open the puchasing system, then./bank, and ./customer.
